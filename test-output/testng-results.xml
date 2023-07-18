@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T09:37:51 IST" name="Default suite" finished-at="2023-07-18T09:38:25 IST" duration-ms="34007">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T09:37:51 IST" name="Default test" finished-at="2023-07-18T09:38:25 IST" duration-ms="34007">
+      <class name="hashtag.tests.Joinuspositivetestcase">
+        <test-method is-config="true" signature="browserinvokelaunch()[pri:0, instance:hashtag.tests.Joinuspositivetestcase@3646a422]" started-at="2023-07-18T09:37:51 IST" name="browserinvokelaunch" finished-at="2023-07-18T09:37:56 IST" duration-ms="4980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinvokelaunch -->
+        <test-method signature="positivetest()[pri:0, instance:hashtag.tests.Joinuspositivetestcase@3646a422]" started-at="2023-07-18T09:37:56 IST" name="positivetest" finished-at="2023-07-18T09:38:08 IST" duration-ms="12585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positivetest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:hashtag.tests.Joinuspositivetestcase@3646a422]" started-at="2023-07-18T09:38:08 IST" name="close" finished-at="2023-07-18T09:38:08 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="browserinvokelaunch()[pri:0, instance:hashtag.tests.Joinuspositivetestcase@3646a422]" started-at="2023-07-18T09:38:08 IST" name="browserinvokelaunch" finished-at="2023-07-18T09:38:12 IST" duration-ms="3744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinvokelaunch -->
+        <test-method signature="negativetest()[pri:1, instance:hashtag.tests.Joinuspositivetestcase@3646a422]" started-at="2023-07-18T09:38:12 IST" name="negativetest" finished-at="2023-07-18T09:38:25 IST" duration-ms="12460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativetest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:hashtag.tests.Joinuspositivetestcase@3646a422]" started-at="2023-07-18T09:38:25 IST" name="close" finished-at="2023-07-18T09:38:25 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- hashtag.tests.Joinuspositivetestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
